@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React by day editted on github !!
+          Learn React by day editted on github and code sandbox !!
         </a>
       </header>
     </div>
